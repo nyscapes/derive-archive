@@ -1,0 +1,9 @@
+name: A Media History Blog from NYU
+markdown: kramdown
+defaults: 
+  -
+    scope: 
+      path: ""
+    values:
+      layout: "default"
+
