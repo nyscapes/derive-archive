@@ -6,4 +6,9 @@ defaults:
       path: ""
     values:
       layout: "default"
+  -
+    scope: 
+      path: "_posts"
+    values:
+      layout: "post"
 #theme: jekyll-theme-tactile
