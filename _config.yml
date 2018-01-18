@@ -1,5 +1,5 @@
-baseurl: /media-history-blog
-name: A Media History Blog from NYU
+baseurl: /derive-archive
+name: Dérive Archive
 markdown: kramdown
 defaults: 
   -
