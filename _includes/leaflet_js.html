@@ -1,0 +1,28 @@
+<script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"
+    integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
+    crossorigin=""></script>
+<script>
+  let map = L.map("map");
+  L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.{ext}', {
+      attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+        subdomains: 'abcd',
+        minZoom: 0,
+        maxZoom: 20,
+        ext: 'png'
+  }).addTo(map);
+  const nyu = [40.73046499853991, -73.99250799849149];
+  map.setView(nyu, 14);
+  const radius = 4;
+  const fillOpacity = 0;
+  const derive = {{ page.derive | jsonify }};
+  const start = derive[0];
+  const stop = derive[derive.length - 1];
+  const derivePath = L.polyline(derive, { color: "#0000cc" });
+  derivePath.addTo(map);
+  const startPoint = L.circleMarker(start, { radius, color: "#00cc00", fillOpacity });
+  startPoint.addTo(map);
+  const stopPoint = L.circleMarker(stop, { radius, color: "#cc0000", fillOpacity });
+  stopPoint.addTo(map);
+  map.fitBounds(derivePath.getBounds());
+
+</script>
