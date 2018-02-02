@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "student": "Anshul" }, "geometry": { "type": "Point", "coordinates": [ -74.009207137815096, 40.710831456880491 ] } },
+{ "type": "Feature", "properties": { "id": 1, "student": "Kimberly" }, "geometry": { "type": "Point", "coordinates": [ -73.987383978467577, 40.715218139480243 ] } },
+{ "type": "Feature", "properties": { "id": 2, "student": "Parinaz" }, "geometry": { "type": "Point", "coordinates": [ -73.999600825225585, 40.723348010590094 ] } },
+{ "type": "Feature", "properties": { "id": 3, "student": "Laura" }, "geometry": { "type": "Point", "coordinates": [ -73.980460834878002, 40.716805675885695 ] } },
+{ "type": "Feature", "properties": { "id": 4, "student": "Ankit" }, "geometry": { "type": "Point", "coordinates": [ -73.995010390716445, 40.734400360087378 ] } },
+{ "type": "Feature", "properties": { "id": 5, "student": "Sara" }, "geometry": { "type": "Point", "coordinates": [ -74.007319766976494, 40.735252564020733 ] } },
+{ "type": "Feature", "properties": { "id": 6, "student": "Skye" }, "geometry": { "type": "Point", "coordinates": [ -73.98290070619835, 40.729607298831681 ] } },
+{ "type": "Feature", "properties": { "id": 7, "student": "Tabitha" }, "geometry": { "type": "Point", "coordinates": [ -74.005778052694595, 40.704178271704421 ] } },
+{ "type": "Feature", "properties": { "id": 8, "student": "Rachel" }, "geometry": { "type": "Point", "coordinates": [ -73.99468030714003, 40.719816062997701 ] } },
+{ "type": "Feature", "properties": { "id": 9, "student": "Valentina" }, "geometry": { "type": "Point", "coordinates": [ -74.008297772359938, 40.724608998327511 ] } },
+{ "type": "Feature", "properties": { "id": 10, "student": "Jesús" }, "geometry": { "type": "Point", "coordinates": [ -73.997165376852593, 40.720165387977403 ] } },
+{ "type": "Feature", "properties": { "id": 11, "student": "Allen" }, "geometry": { "type": "Point", "coordinates": [ -74.014615140272355, 40.717298451199106 ] } },
+{ "type": "Feature", "properties": { "id": 12, "student": "Sereba" }, "geometry": { "type": "Point", "coordinates": [ -73.983071537516778, 40.712638721387265 ] } },
+{ "type": "Feature", "properties": { "id": 13, "student": "Ava" }, "geometry": { "type": "Point", "coordinates": [ -74.00997208150612, 40.719436960998742 ] } },
+{ "type": "Feature", "properties": { "id": 14, "student": "Mika" }, "geometry": { "type": "Point", "coordinates": [ -74.003734306886429, 40.71541009768039 ] } },
+{ "type": "Feature", "properties": { "id": 15, "student": "Peter" }, "geometry": { "type": "Point", "coordinates": [ -73.992820657902499, 40.720369614535635 ] } },
+{ "type": "Feature", "properties": { "id": 16, "student": "Brandon" }, "geometry": { "type": "Point", "coordinates": [ -73.990823648637218, 40.716790143166861 ] } },
+{ "type": "Feature", "properties": { "id": 17, "student": "Christiana" }, "geometry": { "type": "Point", "coordinates": [ -73.985562907101837, 40.714230042369685 ] } },
+{ "type": "Feature", "properties": { "id": 18, "student": "Lily" }, "geometry": { "type": "Point", "coordinates": [ -73.979998269396688, 40.727156540404621 ] } },
+{ "type": "Feature", "properties": { "id": 19, "student": "Ali" }, "geometry": { "type": "Point", "coordinates": [ -73.995631607075424, 40.715779745744193 ] } },
+{ "type": "Feature", "properties": { "id": 20, "student": "Bryce" }, "geometry": { "type": "Point", "coordinates": [ -74.008028518386041, 40.727547422637755 ] } },
+{ "type": "Feature", "properties": { "id": 21, "student": "Mereyem" }, "geometry": { "type": "Point", "coordinates": [ -73.984143047954262, 40.71982403034859 ] } },
+{ "type": "Feature", "properties": { "id": 22, "student": "Eddy" }, "geometry": { "type": "Point", "coordinates": [ -74.001492620169088, 40.719779164924567 ] } },
+{ "type": "Feature", "properties": { "id": 23, "student": "Matt" }, "geometry": { "type": "Point", "coordinates": [ -73.985653299217674, 40.723744683961812 ] } },
+{ "type": "Feature", "properties": { "id": 24, "student": "Kate" }, "geometry": { "type": "Point", "coordinates": [ -73.979481995141214, 40.715195505145118 ] } }
+]
+}
