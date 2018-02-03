@@ -5,6 +5,9 @@
   {% if page.map == true %}
     {% include leaflet_styles.html %}
   {% endif %}
+  {% if page.geojson == true %}
+    {% include leaflet_styles.html %}
+  {% endif %}
 </head>
 <body>
   <div class="container">

@@ -2,22 +2,26 @@
         <h3>Posts</h3>
         <ul>
           {% for post in site.posts %}
+          {% assign author = site.data.authors[post.author] %}
             <li>
-              <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+              <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>, by {{ author.name }}
             </li>
           {% endfor %}
         </ul>
       </div>
     </div>
   </div>
-  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/js/bootstrap.min.js" integrity="sha384-a5N7Y/aK3qNeh15eJKGWxsqtnX/wWdSZSKp+81YjTmS15nvnvxKHuzaWwXHDli+4" crossorigin="anonymous"></script>
   {% if page.map == true %}
     {% include leaflet_js.html %}
   {% endif %}
+  {% if page.geojson == true %}
+    {% include geojson_js.html %}
+  {% endif %}
   <script>
-    $("article img").css( "max-width", "50%" ).css( "height", "auto" ).addClass("rounded float-right ml-2")
+    $("article > img").css( "max-width", "50%" ).css( "height", "auto" ).addClass("rounded float-right ml-2")
   </script>
 </body>
 

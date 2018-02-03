@@ -3,7 +3,12 @@
   <article class="col-md-8">
     <h2>{{ page.title }}</h2>
     <h3>{{ page.date | date: '%B %d, %Y' }}, by {{ author.name }}</h3>
-    <div style="height: 300px; max-width: auto;" id="map"></div>
+
+  {% if page.map == true %}
+      <div style="height: 300px; max-width: auto;" id="map"></div>
+  {% elsif page.geojson == true %}
+      <div style="height: 500px; max-width: auto;" id="map"></div>
+  {% endif %}
 
     {{ content }}
   </article>
