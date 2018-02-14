@@ -1,6 +1,9 @@
 baseurl: /derive-archive
 name: Dérive Archive
 markdown: kramdown
+include: ["_pages"]
+gems:
+  - jekyll-redirect-from
 defaults: 
   -
     scope: 

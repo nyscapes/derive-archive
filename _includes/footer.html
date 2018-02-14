@@ -1,5 +1,17 @@
       <div class="col-md-4">
-        <h3>Posts</h3>
+        <h3>Pages</h3>
+        <ul>
+          <li>
+            <a href="{{ site.baseurl }}/first-derive-map">First Dérive Map</a>
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/how-to-do-a-derive">How to Do a Dérive</a>
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/how-to-post-your-derive-report">How to Post your Dérive Report</a>
+          </li>
+        </ul>
+        <h3>Reports</h3>
         <ul>
           {% for post in site.posts %}
           {% assign author = site.data.authors[post.author] %}
