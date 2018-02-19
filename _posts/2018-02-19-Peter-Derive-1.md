@@ -4,17 +4,16 @@ author: Peter
 map: true
 
 derive:
-  - [40.719038, -73.992384]
-  - [40.720276, -73.991946]
-  - [40.719729, -73.994568]
-  - [40.722303, -73.992533]
-  - [40.724557, -73.991739]
-  - [40.726921, -73.996674]
-  - [40.725969, -73.992265]
-  - [40.727514, -73.994819]
-  - [40.728938, -73.993768]
-  - [40.728629, -73.990635]
-  - [40.729324, -73.991850]
+  - [40.719804, -73.992369]
+  - [40.719869, -73.992798]
+  - [40.719381, -73.994386]
+  - [40.719793, -73.995244]
+  - [40.720530, -73.996875]
+  - [40.724097, -73.995416]
+  - [40.724486, -73.995888]
+  - [40.725906, -73.994644]
+  - [40.726524, -73.995845]
+  - [40.728378, -73.994343]
 ---
 
 It's been a bit of time since I last walked around the Lower East Side and NoLita. I recently moved outside of New York City limits into my grandmother's home on Long Island. As a teenager going into New York city growing up, I often passed through this neighborhood coming in from the Williamsburg Bridge and into Delancey, marveling at the neighborhood's graffiti presence, and driving across Kenmare's hip stores. A few years later I found myself wandering to this neighborhood from my relatively near-by dorm in The Village. This morning is temperate for February, and it had freshly rained. I think fresh rain is the ideal scent for a city.
