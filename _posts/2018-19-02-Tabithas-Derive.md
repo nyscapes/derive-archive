@@ -26,7 +26,7 @@ derive:
   - [40.704560, -74.009477]
   - [40.703848, -74.010534]
   - [40.704131, -74.010700]
-
+---
 
 My Derive was located in the Wall Street area. I have been in the Wall Street
 area before, but in it was in and out to attend the doctors office.
@@ -76,7 +76,6 @@ a culture of finance from the colonial period to now.
 
 ![Stone Street District](https://i.imgur.com/pXoZHpT.jpg)
 ![Stone Street District](https://i.imgur.com/aCaHf0j.jpg)
-![Stone Street District](https://i.imgur.com/aCaHf0j.jpg)
 ![Stone Street District](https://i.imgur.com/MbZ0kv7.gif)
 ![Stone Street District](https://i.imgur.com/izRAXKI.jpg)
-![Stone Street District](https://i.imgur.com/izRAXKI.jpg)
+![Stone Street District](https://i.imgur.com/B8HHxFj.jpg)
