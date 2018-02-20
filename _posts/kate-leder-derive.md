@@ -48,8 +48,7 @@ children, nearby.
 
 Throughout this first half of my derive, I noticed how much the Lower East Side is a pastiche of different communities. There are the young professionals and hip crowds sitting at
 brunch spots and coffee shops. There are the families and kids in the parks and playgrounds, mothers pushing strollers down the streets. There’s a sense of dirt and grunge, as
-tiny mom and pop stores were mixed alongside gourmet eateries. The variety of languages within this space interested me as well. Signs for schools were in Chinese, Hebrew,
-and Spanish.
+tiny mom and pop stores were mixed alongside gourmet eateries. The variety of languages within this space interested me as well. Signs for schools were in Chinese, Hebrew, and Spanish.
 ![Signage](https://i.imgur.com/AQ1ote6.jpg)
 ![Signage 2](https://i.imgur.com/ieBkWjL.jpg)
 ![Signage 3](https://i.imgur.com/bcMjIAV.jpg)
