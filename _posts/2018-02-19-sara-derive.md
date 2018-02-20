@@ -23,6 +23,7 @@ derive:
   - [40.730906, -74.006698]
   - [40.730210, -74.006838]
 —--
+
 Since I’ve lived in New York, I’ve found myself really attached to the West Village. I don’t know it very well, and the parts I do are on the east side of Bleecker Street. My derive took me all the way over to the West Side.
 
 So much of our reading has touched on the Lower East Side, or areas near Astor Place and the Bowery. Starting my derive near Hudson Street felt very separate from much of the history we have so far learned about, despite the fact that I was still very much “below 14th Street.”
