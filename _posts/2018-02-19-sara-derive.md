@@ -22,7 +22,7 @@ derive:
   - [40.731070, -74.004542]
   - [40.730906, -74.006698]
   - [40.730210, -74.006838]
-—--
+---
 
 Since I’ve lived in New York, I’ve found myself really attached to the West Village. I don’t know it very well, and the parts I do are on the east side of Bleecker Street. My derive took me all the way over to the West Side.
 
