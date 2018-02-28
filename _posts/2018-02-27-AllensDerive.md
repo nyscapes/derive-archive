@@ -3,16 +3,16 @@ title: Allen's Derive
 author: jas1634
 map: true
 derive:
-[40.717238, -74.014673]
-[40.717774, -74.014193]
-[40.718140, -74.015036]
-[40.715062, -74.017215]
-[40.713777, -74.013947]
-[40.713456, -74.013217]
-[40.711406, -74.012599]
-[40.711484, -74.012725]
-[40.711399, -74.011146]
-[40.713484, -74.006739]
+  - [40.717238, -74.014673]
+  - [40.717774, -74.014193]
+  - [40.718140, -74.015036]
+  - [40.715062, -74.017215]
+  - [40.713777, -74.013947]
+  - [40.713456, -74.013217]
+  - [40.711406, -74.012599]
+  - [40.711484, -74.012725]
+  - [40.711399, -74.011146]
+  - [40.713484, -74.006739]
 ---
 
 For my first derive, my starting point was in Battery Park City, at Warren and N End Ave. I have only walked around this area several times, so I was both intrigued and intimidated by this assignment. When it comes to getting around New York, I always have a destination in mind, and I don’t spend much time wandering. Additionally, I usually either know exactly where to go or rely on my phone to navigate me. I always listen to music when I walk, so not doing this was a challenge. However, I found myself noticing the sounds of the city that I usually block out.

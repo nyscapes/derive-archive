@@ -1,6 +1,6 @@
+---
 title: Kate's First Derive
 author: kjl411
-
 map: true
 derive:
   - [40.716649, -73.983278]
@@ -16,6 +16,7 @@ derive:
   - [40.726942, -73.985678]
   - [40.727983, -73.988103]
   - [40.731609, -73.985485]
+---
 
 When thinking about this derive, I was curious as to how it would go. Being lost in a city that I’ve adapted to seemed like a huge challenge—carrying a map around sounded absurd.
 My starting point was on Delancey Street, a bustling and hectic street in the Lower East Side. I remembered it as one of my least favorite spots,
