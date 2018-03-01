@@ -29,10 +29,15 @@ I am led to the World Trade Memorial, where I stop for a bit of time and reflect
 
 ![Memorial](https://i.imgur.com/D0eKozk.jpg)
 
-A few cards later, and I walk around City Hall — the architecture stood out to me in contrast to the buildings that surrounded it. The way it was placed in the center made the detailed building stand out. For the rest of my derive I paid attention to the differences in architecture. As I took note of how the city has changed, it reminded me of something that was in “The City as a Medium” by Kittler and Griffin — “What strikes the eye of the passerby as a growth or entropy is technology, that is, information.”
+A few cards later, and I walk around City Hall — the architecture stood out to me in contrast to the buildings that surrounded it. The way it was placed in the center made the detailed building stand out. For the rest of my derive I paid attention to the differences in architecture. As I took note of how the city has changed, it reminded me of something that was in “The City is a Medium” by Kittler and Griffin — “What strikes the eye of the passerby as a growth or entropy is technology, that is, information.”
 
 
 Towards the end, I was also directed to find my reflection. I found it in a shiny black surface that got a reflection from the lights around it. I thought this was fitting for one of my last cards as it led me think about how the derive experience had impacted me.
 
 
 When I first went out to complete my derive, I was unsure what I would find upon exploring the Battery Park/Tribeca area. It is one of the areas of the city I am the least familiar with, but I think that this lead my experience to be even more impactful as I did not have as many notions beforehand. It is interesting to consider how every person who experiences the various parts of a city sees it through their own lens. My perspective of this area is influenced by the fact that I have spent the majority of my time around Greenwich Village. My derive reminded me of a lot of the things said in “City Limits,” a reading from earlier this semester. Including, “you start building your private New York the first time you lay eyes on it.” Every New Yorker has their own experiences that make New York their home. The familiarity of different areas and their history plays a big role in this.
+
+
+Works cited:
+Kittler, Friedrich A., and Matthew Griffin. “The City Is a Medium.” *New Literary History*, vol. 27, no. 4, 1996, pp. 717–729. 
+Whitehead, Colson. *The Colossus of New York: A City in Thirteen Parts.* Anchor Books, 2004.
