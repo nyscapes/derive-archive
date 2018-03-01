@@ -39,5 +39,9 @@ When I first went out to complete my derive, I was unsure what I would find upon
 
 
 Works cited:
+
+
 Kittler, Friedrich A., and Matthew Griffin. “The City Is a Medium.” *New Literary History*, vol. 27, no. 4, 1996, pp. 717–729.
+
+
 Whitehead, Colson. *The Colossus of New York: A City in Thirteen Parts.* Anchor Books, 2004.
