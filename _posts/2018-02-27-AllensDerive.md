@@ -27,7 +27,7 @@ I was directed to find cheap street food. I expected to find a hot dog vendor or
 
 I am led to the World Trade Memorial, where I stop for a bit of time and reflect on the impact the tragedy of 9/11 had on the city, and how the city has rebuilt itself since. I take some time to watch how different people experience the memorial themselves. I then continue to the Oculus, where I stop to observe various people, most who appear to be in a hurry. However, some of them stop to take pictures and enjoy the architecture.
 
-![Memorial][img](https://i.imgur.com/D0eKozk.jpg)
+![Memorial](https://i.imgur.com/D0eKozk.jpg)
 
 A few cards later, and I walk around City Hall — the architecture stood out to me in contrast to the buildings that surrounded it. The way it was placed in the center made the detailed building stand out. For the rest of my derive I paid attention to the differences in architecture. As I took note of how the city has changed, it reminded me of something that was in “The City as a Medium” by Kittler and Griffin — “What strikes the eye of the passerby as a growth or entropy is technology, that is, information.”
 
