@@ -37,7 +37,7 @@ An hour into my thoughtful wandering, and I came across the One World Memorial C
 <iframe width="560" height="315" src="https://www.youtube.com/embed/119i_2ECoNo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-Overall, I loved learning more about this part of New York. I enjoyed traversing it’s confusing one way streets, fighting against the bitter wind, and taking shelter from it by huddling against building walls. While I loved exploring the East Village, it didn’t feel as storied, or as weathered, as the Financial District, with its rich trading history, prominent landmarks, and contemporary tragedy. More than before, I truly understood what Sante meant, when he wrote, “It is a city and it is also a creature , a mentality, a disease, a threat, an electromagnet, a cheap stage set, an accident corridor” (1). With so many layers and people piled up on top of each other, its hard to see the city as anything else, but alive.
+Overall, I loved learning more about this part of New York. I enjoyed traversing it’s confusing one way streets, fighting against the bitter wind, and taking shelter from it by huddling against building walls. While I loved exploring the East Village, it didn’t feel as storied, or as weathered, as the Financial District, with its rich trading history, prominent landmarks, and contemporary tragedy. More than before, I truly understood what Sante meant, when he wrote, “It is a city and it is also a creature , a mentality, a disease, a threat, an electromagnet, a cheap stage set, an accident corridor” (1). With so many layers and people piled up on top of each other, its hard to see the city as anything else, but alive. 
 
 “History.” Trinity Church, 28 Apr. 2016.
 
