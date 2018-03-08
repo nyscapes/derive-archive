@@ -3,19 +3,19 @@ title: Lily's Second Derive
 author: lrd306
 map: true
 derive:
-  -[40.7096, -74.0128]
-  -[40.7079, -74.0136]
-  -[40.7082, -74.0143]
-  -[40.7091, -74.0131]
-  -[40.7095, -74.0139]
-  -[40.7100, -74.0136]
-  -[40.7102, -74.0144]
-  -[40.7136, -74.0136]
-  -[40.7119, -74.0100]
-  -[40.7127, -74.0097]
-  -[40.7120, -74.0081]
-  -[40.7125, -74.0076]
-  -[40.7121, -74.0071]
+  - [40.7096, -74.0128]
+  - [40.7079, -74.0136]
+  - [40.7082, -74.0143]
+  - [40.7091, -74.0131]
+  - [40.7095, -74.0139]
+  - [40.7100, -74.0136]
+  - [40.7102, -74.0144]
+  - [40.7136, -74.0136]
+  - [40.7119, -74.0100]
+  - [40.7127, -74.0097]
+  - [40.7120, -74.0081]
+  - [40.7125, -74.0076]
+  - [40.7121, -74.0071]
 ---
 
 The financial district, which is where my second derive was located, is a part of New York I rarely visit. I used to take the C train down to the Wall Street area during my freshman year, but only to occasionally visit a doctor. I never paid much attention to my surroundings, being preoccupied with my appointments, and wanting to return home as quickly as possible. However, after completing my derive, and consciously paying attention to the details and layout of the area, I’ve come to truly appreciate the Financial District, and the history it contains.
@@ -37,7 +37,7 @@ An hour into my thoughtful wandering, and I came across the One World Memorial C
 <iframe width="560" height="315" src="https://www.youtube.com/embed/119i_2ECoNo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-Overall, I loved learning more about this part of New York. I enjoyed traversing it’s confusing one way streets, fighting against the bitter wind, and taking shelter from it by huddling against building walls. While I loved exploring the East Village, it didn’t feel as storied, or as weathered, as the Financial District, with its rich trading history, prominent landmarks, and contemporary tragedy. More than before, I truly understood what Sante meant, when he wrote, “It is a city and it is also a creature , a mentality, a disease, a threat, an electromagnet, a cheap stage set, an accident corridor” (1). With so many layers and people piled up on top of each other, its hard to see the city as anything else, but alive. 
+Overall, I loved learning more about this part of New York. I enjoyed traversing it’s confusing one way streets, fighting against the bitter wind, and taking shelter from it by huddling against building walls. While I loved exploring the East Village, it didn’t feel as storied, or as weathered, as the Financial District, with its rich trading history, prominent landmarks, and contemporary tragedy. More than before, I truly understood what Sante meant, when he wrote, “It is a city and it is also a creature , a mentality, a disease, a threat, an electromagnet, a cheap stage set, an accident corridor” (1). With so many layers and people piled up on top of each other, its hard to see the city as anything else, but alive.
 
 “History.” Trinity Church, 28 Apr. 2016.
 
