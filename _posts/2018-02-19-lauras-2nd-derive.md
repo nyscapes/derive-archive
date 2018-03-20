@@ -1,4 +1,3 @@
----
 title: laura's second derive
 author: ltm276
 map: true
@@ -20,7 +19,6 @@ derive:
   - [40.720939, -73.993718]
   - [40.720279, -73.994056]
 ---
-
 My second derive was far more enjoyable than my first derive. This time, my starting point was on Chrystie and Stanton, and, luckily, my derive instructions were less radical this time around.
 First, I was told to find somebody wearing a hat and then to follow them. I found a teenager wearing a baseball hat and turned onto Stanton towards Bowery. From there, I began to walk north on Bowery. I was then instructed to make two lefts and then one right- a left on East Houston, a left on Elizabeth, and then a right onto Prince street. I enjoyed this beginning because the area was more familiar to me, and it was nice to see these streets in a new light, and without any distractions such as texting, talking or listening to music.
 On Prince I asked a stranger what their favorite place was, which was one of my favorite tasks from my last derive. I asked a man who appeared to be a bit older than me what his favorite place is, and he answered “Joe’s Pizza” immediately. This was ironic because I happen to have very strong feelings about Joe’s. While this pizza shop is widely known to be “one of the best in the city,” I find it to be extremely mediocre and does not compare to other pizza’s I have had. When I tell this to people, they often start up a large debate. I spared this stranger my argument. After this, I was told to ask a stranger for the time, and he walked right passed me and did not answer me. This is hardly a surprise to me, and is very indicative of the New York personality- in a rush, and no regard for others on the street.
