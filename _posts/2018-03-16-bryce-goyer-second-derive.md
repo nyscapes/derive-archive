@@ -3,20 +3,20 @@ title: Bryce Goyer Dérive 2
 author: bg1506
 map: true
 derive:
-   - [40.7257, -73.9969]
-   - [40.7254, -73.9969]
-   - [40.7241, -73.9928]
-   - [40.7224, -73.9933]
-   - [40.7231, -73.9949]
-   - [40.7246, -73.9942]
-   - [40.7249, -73.9949]
-   - [40.7241, -73.9954]
-   - [40.7244, -73.9959]
-   - [40.7223, -73.9972]
-   - [40.7211, -73.9982]
-   - [40.7214, -73.9990]
-   - [40.7239, -73.9970]
-   - [40.7261, -74.0016]
+  - [40.7257, -73.9969]
+  - [40.7254, -73.9969]
+  - [40.7241, -73.9928]
+  - [40.7224, -73.9933]
+  - [40.7231, -73.9949]
+  - [40.7246, -73.9942]
+  - [40.7249, -73.9949]
+  - [40.7241, -73.9954]
+  - [40.7244, -73.9959]
+  - [40.7223, -73.9972]
+  - [40.7211, -73.9982]
+  - [40.7214, -73.9990]
+  - [40.7239, -73.9970]
+  - [40.7261, -74.0016]
 ---
 This time for my Dérive I was assigned a location that I haven’t frequented as often, but that we talked about more in class. I was assigned to start on the intersection of East Houston Street and Elizabeth Street. While I was walking there, I realized that I was going to be walking right past Broadway, and since we have talked about Broadway so much in this class I decided to start my observations a few more streets to the West.
 ![Starting on Broadway ](https://i.imgur.com/m1CNz6I.jpg)
