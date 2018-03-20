@@ -3,17 +3,15 @@ title: Eddy's 2nd Derive
 author: elh365
 map: true
 Derive:
- - [40.721511, -73.978364]
- - [40.721283, -73.977881]
- - [40.720096, -73.978739]
- - [40.721055, -73.981035]
- - [40.725206, -73.977916]
- - [40.726250, -73.980322]
- - [40.725079, -73.981212]
- - [40.726936, -73.985718]
- - [40.723634, -73.985279]
- - [40.724578, -73.987478]
- - [40.723927, -73.987950]
+ - [40.721265, -73.977836]
+ - [40.720061, -73.978737]
+ - [40.721005, -73.981076]
+ - [40.725282, -73.977986]
+ - [40.726296, -73.980346]
+ - [40.725067, -73.981183]
+ - [40.726027, -73.983513]
+ - [40.723669, -73.985389]
+ - [40.724548, -73.987577]
 ---
 In contrast to the first derive, I was already comfortable with what needed to be done and focused on while walking through the streets of New York. Instead of going in the afternoon, I decided to traverse the streets at night, more specifically at 8 so I could experience the different kind of commotion that I would have to encounter. I started on 4th and D, a street in an area known as Alphabet City. I started in front of a garden, but could not get in because it was already closed. This street in particular intrigued me because I have friends that live on this exact block, but I had no idea that a garden was at the end of the street, making me reflect on if I am as visually aware as I claim I am. I could not see into the garden because it was dark, but now I am interested about how the park looks and how different of a feeling it could provide during the day. ![Park](https://i.imgur.com/JIlzcMy.jpg) The derive app instructed me to cross the street, so I did so and I was pleased to find a church with a donation box on the outside for clothes. It warmed my heart to notice that kind of decency and I was also taken away by the architecture of the church. It looked completely different from the surrounding buildings. ![Church](https://i.imgur.com/LSC7SyM.jpg?1) However, I was confused because directly next door to the church was a public school. I had to question whether or not that was legally allowed, but I continued on with the derive anyways.
 
