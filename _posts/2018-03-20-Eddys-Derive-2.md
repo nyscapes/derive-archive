@@ -2,7 +2,7 @@
 title: Eddy's 2nd Derive
 author: elh365
 map: true
-Derive:
+derive:
  - [40.721265, -73.977836]
  - [40.720061, -73.978737]
  - [40.721005, -73.981076]
