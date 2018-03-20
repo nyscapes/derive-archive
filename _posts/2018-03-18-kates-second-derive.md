@@ -21,6 +21,7 @@ derive:
   - [40.724766, -73.994186]
 ---
 
+
 I headed out on my second derive on a sunny Sunday afternoon. My starting point pushed me even further downtown than I usually go—the Financial District. With little restaurants, shops, and events happening down there, I tend to stay in my bubble between 14th street and SoHo. Even venturing past Canal Street seems like a trek, and an area that isn’t necessarily the nicest to be in. Spruce Street, my starting point, was cold and dark. I began to think more about why I never came down into this space, and this cramped, eerie feeling was exactly why. The few times I’ve made it down into the Financial District, it has felt like a ghost town—somewhat of a contradiction or anomaly to living in one of the world’s largest cities.  
 ![City Hall Park](https://i.imgur.com/DgUuskU.jpg)
 
