@@ -19,8 +19,8 @@ derive:
 For both of my derives I was appointed to explore the lowest parts of
 Manhattan. This time my journey had me start at Battery Park City. It was on a late
 Sunday afternoon and it reeked of commercial development. While walking around it seemed
-like it's own little community, with it greenspace and sky rise apartments and the mall.My
-prior knowledge of Battery Park City along ![Battery Park City](https://i.imgur.com/hB33Tass.jpg)
+like it's own little community, with it greens pace and sky rise apartments and the mall.My
+prior knowledge of Battery Park City along ![Battery Park City](https://i.imgur.com/hB33Tas.jpg)
 with Battery Park are made up from landfill. As Joshua Mcgilvray states in his
 article, The Surprisingly Long History of Battery Park City - New York's Oldest
 Neighborhood:
@@ -90,4 +90,4 @@ Looking at the World Trade Center memorial, Trinity Church and even Battery Park
 City really gave me a clear example of how to interpret reflects what Mattern is stating. These buildings and the cemetery represents a shared history and cultural identity.
 
 ![Guy Playing the Trumpet](https://i.imgur.com/Jaiusv3.jpg)
->Train station that connects you to the Oculus.
+>Man playing the trumpet in the train station that connects you to the Oculus.
