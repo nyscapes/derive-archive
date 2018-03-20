@@ -1,5 +1,5 @@
 ---
-title: Ava's First Derive
+title: <b>Ava's First Derive</b>
 author: ans614
 map: true
 derive:
