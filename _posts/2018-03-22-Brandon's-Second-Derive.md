@@ -1,5 +1,5 @@
 ---
-title: Brandon's Second Dérive: Snowy Walk around the Battery
+title: Brandon's Second Dérive- Snowy Walk around the Battery
 author: bw1121
 map: true
 derive:
