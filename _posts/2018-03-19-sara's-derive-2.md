@@ -3,23 +3,24 @@ title: Sara’s 2nd Derive: Extremities
 author: sm6381
 map: true
 derive:
-  [40.720265, -73.984425]
-  [40.719449, -73.981947]
-  [40.716122, -73.983696]
-  [40.716878, -73.986217]
-  [40.715959, -73.986732]
-  [40.716244, -73.987547]
-  [40.717130, -73.987097]
-  [40.717667, -73.988631]
-  [40.716707, -73.989135]
-  [40.717699, -73.992279]
-  [40.718651, -73.991785]
-  [40.718870, -73.992676]
-  [40.716748, -73.993631]
-  [40.716927, -73.994371]
-  [40.718209, -73.993596]
-  [40.718789, -73.995691]
+  - [40.720265, -73.984425]
+  - [40.719449, -73.981947]
+  - [40.716122, -73.983696]
+  - [40.716878, -73.986217]
+  - [40.715959, -73.986732]
+  - [40.716244, -73.987547]
+  - [40.717130, -73.987097]
+  - [40.717667, -73.988631]
+  - [40.716707, -73.989135]
+  - [40.717699, -73.992279]
+  - [40.718651, -73.991785]
+  - [40.718870, -73.992676]
+  - [40.716748, -73.993631]
+  - [40.716927, -73.994371]
+  - [40.718209, -73.993596]
+  - [40.718789, -73.995691]
 ---
+
 This derive began a lot differently than my last. The last derive, although I explored new places, I had a general sense of the area. This time, however, I was dropped into a totally new place. I was coming from midtown, and had to find a way to get there on _Citymapper_, the map app that I use when I get very, very lost.
 
 This time, my placement was much farther to the East side of Manhattan than I normally go. I live off Lafayette, so my boundary is usually west of the Bowery. My starting spot for this assignment was essentially parallel to Avenue C.
