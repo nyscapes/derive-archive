@@ -26,7 +26,7 @@ This derive began a lot differently than my last. The last derive, although I ex
 This time, my placement was much farther to the East side of Manhattan than I normally go. I live off Lafayette, so my boundary is usually west of the Bowery. My starting spot for this assignment was essentially parallel to Avenue C.
 
 This time I made sure I had a pen and paper to take notes on instead of trying to use my phone and also the derive app. My immediate impression is that the Lower East Side (LES) has a huge number of murals. My starting spot was near a school, and amongst all the other typical buildings, the murals popped out at me.
-![LES Murals](https://imgur.com/a/tUQOy)
+![LES Murals](https://i.imgur.com/zsfaRdJ.jpg)
 
 At Reagan and Clinton, I stopped to look at the buildings around me. The LES is slung lower than a lot of Manhattan. I wondered, if there was a 3-D map of Manhattan, would it be shaped like a triangle?
 
