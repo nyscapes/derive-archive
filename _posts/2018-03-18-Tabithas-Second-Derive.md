@@ -21,7 +21,7 @@ derive:
 For both of my derives I was appointed to explore the lowest parts of
 Manhattan. This time my journey had me start at Battery Park City. It was on a late
 Sunday afternoon and it reeked of commercial development. While walking around it seemed
-like it's own little community, with it green space and sky rise apartments and the mall.My
+like it's own little community, with it greens pace and sky rise apartments and the mall.My
 prior knowledge of Battery Park City along
 with Battery Park are made up from landfill. As Joshua Mcgilvray states in his
 article, The Surprisingly Long History of Battery Park City - New York's Oldest
@@ -37,6 +37,7 @@ development plan. And in the 70's and 80's these new buildings began to open.
 The idea of re-building and new developments for Battery Park City continued
 soon after 9/11 also.
 
+
 As I was walking up towards Carlisle Street, I noticed an abandoned looking area. There
 was graffiti on the back of an old looking four-story building. This area was
 blocked off as if it was being prepared for a new development.
@@ -47,7 +48,8 @@ Basquiat. When he said:
 >I am making his mark in the world.
 
 All my life I loved Graffiti and I know people who are graffiti artist, and
-they strive to make their graffiti noticed and to make a mark in their city  
+they strive to make their graffiti noticed and to make a mark in their city.
+
 I started to roam around some more then I ended up at the corner of Rector and
 Broadway. I was surprised and excited to find Trinity Church.
 I knew about this church and it being one of the couple of graveyards that existed in
@@ -66,6 +68,7 @@ city wanted to demolish this church and the graveyard to create more new
 developments, still the bodies will still be below as if they were the
 foundation of the New development. Those bodies are connected to New York's past
 identity.  
+
 Lastly, I ended up at the World Trade Center. At first, it bought me memories of
 when I was six years old hearing about it on the news and school shutting
 down.
@@ -83,9 +86,8 @@ documentation will ensure its immortality, allow for its continual rebirth
 in the face of conflict and natural disaster.
 
 Looking at the World Trade Center memorial, Trinity Church and even Battery Park
-City really gave me a clear example of how to interpret reflects what Mattern is stating.
-These buildings and the cemetery represents a shared history and cultural identity.
-![Battery Park City](https://i.imgur.com/hB33Tass.jpg)
+City really gave me a clear example of how to interpret reflects what Mattern is stating. These buildings and the cemetery represents a shared history
+![Battery Park City](https://i.imgur.com/hB33Tas.jpg)
 ![Carlisle Street](https://i.imgur.com/5aJLQ7F.jpg)
 ![Graffiti](https://i.imgur.com/e72BxDH.jpg)
 ![Trinity church](https://i.imgur.com/3rnJmld.jpg)
