@@ -1,6 +1,6 @@
 ---
 title: Derive By Tabitha Pitre
-author: Tmp365
+author: tmp365
 map: true
 derive:
   - [40.703948, -74.005958]
