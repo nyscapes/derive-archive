@@ -3,16 +3,16 @@ title: ankits first derive
 author: am8290
 map: true
 derive:
-  - [40.734254, -73.994921]
-  - [40.734032, -73.995135]
-  - [40.735336, -73.998268]
-  - [40.736669, -73.997393]
-  - [40.735311, -73.994143]
-  - [40.736010, -73.993638]
-  - [40.733964, -73.988800]
-  - [40.735858, -73.987405]
-  - [40.736516, -73.988971]
----
+ - [40.734254, -73.994921]
+ - [40.734032, -73.995135]
+ - [40.735336, -73.998268]
+ - [40.736669, -73.997393]
+ - [40.735311, -73.994143]
+ - [40.736010, -73.993638]
+ - [40.733964, -73.988800]
+ - [40.735858, -73.987405]
+ - [40.736516, -73.988971]
+ ---
 
 
  Walking around campus, in the rush that is getting to class, it is oftentimes hard to notice the details and intricacies of what surrounds many of the dorms. Thomas Wolfe once said that “one belongs to New York instantly, one belongs to it as much in five minutes as in five years,” and as an International student now experiencing my first year in the city, the Derive assignment allowed for me to truly explore the area I have been acquainting myself with for the better part of six months.

@@ -1,33 +1,32 @@
 ---
 title: Anshul Dérive One
-author: aaa741
+author: (aaa741)
 map: true
 derive:
-  - [40.710940, -74.009159]
-  - [40.711460, -74.010404]
-  - [40.712012, -74.009959]
-  - [40.712736, -74.009639]
-  - [40.712004, -74.008126]
-  - [40.712508, -74.007686]
-  - [40.712175, -74.006999]
-  - [40.714153, -74.006128]
-  - [40.713547, -74.004704]
-  - [40.713969, -74.004350]
-  - [40.714620, -74.005895]
-  - [40.715248, -74.005391]
-  - [40.715799, -74.005022]
-  - [40.716572, -74.006728]
-  - [40.717027, -74.006073]
-  - [40.717664, -74.005794]
-  - [40.718251, -74.005301]
-  - [40.717405, -74.003541]
-  - [40.716763, -74.002018]
-  - [40.716218, -74.002543]
-  - [40.716933, -74.003970]
-  - [40.717673, -74.005719]
-  - [40.718291, -74.006985]
+  -[40.710940, -74.009159]
+  -[40.711460, -74.010404]
+  -[40.712012, -74.009959]
+  -[40.712736, -74.009639]
+  -[40.712004, -74.008126]
+  -[40.712508, -74.007686]
+  -[40.712175, -74.006999]
+  -[40.714153, -74.006128]
+  -[40.713547, -74.004704]
+  -[40.713969, -74.004350]
+  -[40.714620, -74.005895]
+  -[40.715248, -74.005391]
+  -[40.715799, -74.005022]
+  -[40.716572, -74.006728]
+  -[40.717027, -74.006073]
+  -[40.717664, -74.005794]
+  -[40.718251, -74.005301]
+  -[40.717405, -74.003541]
+  -[40.716763, -74.002018]
+  -[40.716218, -74.002543]
+  -[40.716933, -74.003970]
+  -[40.717673, -74.005719]
+  -[40.718291, -74.006985]
 ---
-
 The idea of drifting suggested by Guy Debord in his “Theory of the Dérive” is an art that modern society seems to have forgotten about, or at least wilfully ignores. The hustle and bustle that characterizes people’s lives, especially in a city as metropolitan as NYC, is considered a natural phenomenon. However, this bull-headed rushing through life causes interesting and meaningful aspects of the city to blend into the background level of noise that is the soundtrack to most people’s lives. However, this is not to say that the various psychogeographical currents present in the city have no impact on the individual’s behaviour. Instead, a person’s living experience is diminished because of this lack of awareness. Engaging in this dérive afforded me some insight into what Debord describes as “the groping search for a new way of life” (Debord “Introduction”). My meandering through the streets of Downtown, simply taking in the sights and sounds without worrying about my work, my friends, or any of the countless things that could have guided my actions, opened an interesting perspective on the city’s movements and transitions. The path taken for my dérive may have seemed random but the deeper understanding of psychogeographic influences within a location gained from the works of Kittler, Williams, and Mattern show that there were underlying reasons behind these decisions. For this report, I will attempt to highlight these various influences and the impacts that these ultimately had on my itinerary.
 
 The very first thing that I did for the dérive once I reached my starting point on the intersection of Broadway and Fulton was to search for construction. The entire street was covered with various examples of this, both for renovation projects and the setting up of scaffolding for new building projects. Buildings, especially those that are built in mega-cities like NYC, are extreme feats of human effort. However, the length of time that is involved in the construction process, as well as the ubiquity of these structures throughout the city often makes it easy to ignore the amount of construction taking place. This blending in of what is technically new construction is reminiscent of the interplay between dominant, residual, and emergent cultures that Williams touches on in Marxism and Literature. The constant establishment and development of new construction in the city also brings about constantly developing and growing “meanings and values, new practices, new relationships and kinds of relationships” (Williams, 123). Interestingly, the discussion about the truly emergent nature of these developments, instead of simply being novel, was also an interesting discussion that factored into my musings. Urban expansion has become an extremely common aspect of the way that NYC develops and grows, making it possible that construction is not much more than a phase of the current dominant city culture. However, contemplating this issue later on brought back the assertion that Mattern makes about the reality of urban development and technological progress. Specifically, “urban environments everywhere are characterized by a lot of messy materiality, ‘residual’ media, and different notions of ambient intelligence, sometimes even reflecting competing epistemologies and clashing politics” (Mattern, 156). The process is far from simple, much like the confusing sprawl of construction present throughout the whole street.
