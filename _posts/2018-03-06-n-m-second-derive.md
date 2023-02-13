@@ -1,6 +1,6 @@
 ---
-title: Lily's Second Derive
-author: lrd306
+title: N M's Second Derive
+author: nm306
 map: true
 derive:
   - [40.7096, -74.0128]
